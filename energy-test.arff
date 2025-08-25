@@ -1,0 +1,23 @@
+@relation energy-efficiency-weka.filters.unsupervised.attribute.Remove-R10
+
+@attribute V1 numeric
+@attribute V2 numeric
+@attribute V3 numeric
+@attribute V4 numeric
+@attribute V5 numeric
+@attribute V6 numeric
+@attribute V7 numeric
+@attribute V8 numeric
+@attribute y1 numeric
+
+@data
+0.95,530,300,115,7,2,0.2,1,?
+0.88,570,320,125,7,3,0.3,2,?
+0.84,600,310,150,7,4,0.25,3,?
+0.80,640,340,150,7,5,0.4,4,?
+0.77,670,400,125,3.5,2,0.15,5,?
+0.73,700,270,220,3.5,3,0.35,1,?
+0.70,730,295,220,3.5,4,0.5,2,?
+0.67,760,320,220,3.5,5,0.6,3,?
+0.65,785,345,220,3.5,2,0.45,4,?
+0.63,810,370,220,3.5,3,0.55,5,?
